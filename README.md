@@ -1,32 +1,51 @@
-## Hi there 👋  
-I'm **Awais Khan**, a passionate **Computer Science student** at FAST National University of Computer and Emerging Sciences. I’m an aspiring **AI Engineer** who loves solving complex problems, exploring innovative technologies, and building impactful software.  
-
-### 🔭 What I’m Working On  
-- Developing projects that combine **AI** and **Web Development** to create real-world solutions.  
-- Exploring advanced **Game Development** with C++ and frameworks like SFML.  
-
-### 🌱 What I’m Learning  
-- Deepening my expertise in **Machine Learning** and **AI frameworks**.  
-- Expanding my knowledge in **cloud computing** and scalable back-end architectures.  
-
-### 👯 I’m Looking to Collaborate On  
-- Open-source projects in **AI**, **Web Development**, or **Game Development**.  
-- Research projects related to **Artificial Intelligence** and **Distributed Systems**.  
-
-### 💬 Ask Me About  
-- Building efficient **full-stack applications** using **React** and **Spring Boot**.  
-- Optimizing algorithms and tackling challenging **problem-solving tasks**.  
-- The process behind my **FarmConnect** platform and other cool projects!  
-
-### 📫 How to Reach Me  
-- **Email**: [ssc.awaiskhan.2490@gmail.com](mailto:ssc.awaiskhan.2490@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/awais-khan-bbb205264](https://www.linkedin.com/in/awais-khan-bbb205264)  
-
-### ⚡ Fun Facts  
-- I’m a self-taught **photographer** and serve as the Head of Photography for Google Developers Group on Campus.  
-- A die-hard **F1** fan and sports enthusiast who enjoys cricket, football, and tennis.  
-- My favorite coding snack? 🍫 Chocolate, always.  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Welcome to My GitHub! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <div id="badges">
+    <a href="https://linkedin.com/in/your-linkedin">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
+</div>
 
 ---
 
-Thanks for stopping by! Feel free to check out my repositories and let’s build something amazing together. 🚀  
+### About Me
+I'm a passionate developer with a focus on creating efficient and innovative solutions. My current interests include:
+
+- 🧠 Machine Learning and Artificial Intelligence  
+- 💻 Full-stack Development  
+- ⚡ Optimizing algorithms and systems  
+
+---
+
+### 🛠 Languages & Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🚀 GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### 📈 Current Goals
+- Deepen my understanding of AI/ML concepts  
+- Contribute to impactful open-source projects  
+- Build scalable, user-focused applications  
+
+---
+
+Thank you for visiting my profile! Let's connect and collaborate to make a positive impact in tech 🚀.
