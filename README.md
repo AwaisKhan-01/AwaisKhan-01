@@ -1,81 +1,81 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi there, I’m Awais Khan 👋</h1>
-  <p><em>Computer Science undergrad @ FAST • Aspiring AI & ML Engineer • Open Source Enthusiast</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammad+Awais+Khan;AI+Engineer+%7C+Generative+AI;Building+Scalable+ML+Systems" alt="Typing SVG" />
+  
+  <p><em> AI Engineer • Generative AI & MLOps • CS @ FAST NUCES </em></p>
+  
   <div>
     <a href="https://www.linkedin.com/in/awais-khan-bbb205264/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:ssc.awaiskhan.2490@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/your-username">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <a href="https://github.com/AwaisKhan-01">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </div>
 </div>
 
 ---
 
-## 🎓 Education
-**FAST National University of Computer and Emerging Sciences**, Islamabad  
-_B.Sc. Computer Science_ • 2022 – 2026  
-
-**F.G. Degree College for Men**, Wah Cantt  
-_FSc Pre-Engineering_ • 2020 – 2022  
-
----
-
 ## 🚀 About Me
-I’m a calm, driven developer passionate about building **AI/ML-driven** and **full-stack** solutions. Currently:
-- Optimizing **neural networks** on GPUs  
-- Building scalable **Next.js + Spring Boot** platforms  
-- Exploring **parallel computing** (CUDA, MPI, OpenMP)
+I am an AI Engineer focused on building, optimizing, and deploying complex **Generative AI** and **Agentic AI** workflows. I bridge the gap between low-level model optimization and scalable, full-stack application architecture. 
+
+Currently, I am:
+- 🧠 Developing **OratoAI**, an AI-powered platform for in-depth analysis of oral presentations.
+- ⏱️ Building **AuraCut**, a gamified mobile focus timer designed to enhance productivity.
+- ⚡ Engineering Generative AI pipelines utilizing tools like **ComfyUI** and the latest diffusion models.
+- 📊 Deepening my expertise in **MLOps** and **Statistical Modeling** to ensure reliable, scalable model deployment.
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Technical Arsenal
+
+**AI, ML & Data Engineering**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
+
+**Backend & Architecture**
+<br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+
+**Frontend & Mobile**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+
+---
+
+## 📁 Featured Work
+
+| Project                                    | Architecture / Tech Stack                | Key Impact & Highlights                                          |
+|--------------------------------------------|------------------------------------------|------------------------------------------------------------------|
+| **OratoAI** | Generative AI, Python, Full-stack        | 🎙️ Advanced AI analysis of oral presentations and speech metrics. |
+| **AuraCut** | Mobile, Gamification, Backend APIs       | 🌳 Focus timer integrating dynamic progression mechanics.        |
+| **Neural Network Acceleration** | CUDA, Tensor Cores, C++                  | 🔧 Achieved 70% speedup on MNIST CNN; optimizing GPU utilization.|
+| **Fan Nation & FarmConnect** | Next.js, Spring Boot, MongoDB, MySQL     | 🚀 Architected scalable platforms serving 500+ active users.     |
+
+---
+
+## 📈 Activity & Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AwaisKhan-01&show_icons=true&theme=transparent&hide_border=true&title_color=2E86AB&icon_color=2E86AB" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisKhan-01&theme=transparent&hide_border=true&title_color=2E86AB&ring=2E86AB&fire=2E86AB" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
-## 📁 Featured Projects
-
-| Project                                    | Tech Stack                         | Highlights                                       |
-|--------------------------------------------|------------------------------------|--------------------------------------------------|
-| **Neural Network Acceleration on GPUs**    | CUDA, Tensor Cores, C++            | 🔧 70% speedup on MNIST CNN; +30% via tuning     |
-| **Fan Nation**                             | Next.js, Node.js, MySQL            | 🚀 500+ users; 40% faster APIs; three-tier design|
-| **FarmConnect**                            | Spring Boot, Next.js, MongoDB      | 🌱 500+ farmers connected; 40% latency reduction |
-| **Multi-Threaded Pac-Man**                 | C++, SFML, Multithreading          | 🕹️ 50% less lag; advanced sync across devices    |
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&background=000000" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🎯 Current Goals
-- Deepen expertise in **AI & ML** algorithms  
-- Contribute to high-impact **open-source** projects  
-- Launch my own **self-driving car** research  
-
----
-
-<p align="center">Thanks for stopping by! Let’s connect and build the future of tech 🤝</p>
+<div align="center">
+  <p>Open to remote opportunities in Generative AI and MLOps at forward-thinking international startups.</p>
+  <p><strong>Let’s connect and engineer the future. 🤝</strong></p>
+</div>
