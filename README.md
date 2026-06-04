@@ -141,11 +141,6 @@ class AwaisKhan:
  
 > Explore my pinned repositories for production experiments, case studies, and GenAI tooling.
  
-
-  ┌─ HOW TO ADD REPO CARDS ────────────────────────────────────┐
-  │ Replace REPO-NAME-HERE with one of your actual repo names. │
-  │ Example: repo=llm-rag-pipeline                             │
-  └────────────────────────────────────────────────────────────┘
 <div align="center">
 <a href="https://github.com/AwaisKhan-01/Neural-Netwoks-Optimization-Using-CUDA-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AwaisKhan-01&repo=Neural-Netwoks-Optimization-Using-CUDA-&theme=dark&hide_border=true&title_color=FF8C00&icon_color=FFB300&text_color=FFF0D0&bg_color=161b22" />
