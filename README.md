@@ -5,7 +5,7 @@
 <!--  HEADER: capsule-render (GitHub-proxied, always works)    -->
 <!-- ══════════════════════════════════════════════════════════ -->
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1c0800,100:e07000&height=220&section=header&text=Muhammad%20Awais%20Khan&fontSize=44&fontColor=FFB300&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20CS%20%40%20FAST%20NUCES&descAlignY=62&descSize=17&descColor=FF8C00&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,40:1c0800,100:e07000&amp;height=220&amp;section=header&amp;text=Muhammad%20Awais%20Khan&amp;fontSize=44&amp;fontColor=FFB300&amp;fontAlignY=40&amp;desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20CS%20%40%20FAST%20NUCES&amp;descAlignY=62&amp;descSize=17&amp;descColor=FF8C00&amp;animation=fadeIn" width="100%" alt="Header"/>
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--  TYPING SVG (demolab — GitHub-proxied, always works)      -->
 <!-- ══════════════════════════════════════════════════════════ -->
